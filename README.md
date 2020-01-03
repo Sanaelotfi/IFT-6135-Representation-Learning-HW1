@@ -6,12 +6,14 @@ This is the first assignement of the [IFT6135: Representation-Learning](https://
 
 ## Theory
 
-Multilayer Perceptrons and Convolutional Neural networks : [Statement and Solution]().
+Multilayer Perceptrons and Convolutional Neural networks : [Statement and Solution](https://github.com/Sanaelotfi/IFT-6135-Representation-Learning-HW1/blob/master/IFT6135_HW1_Theory.pdf).
 
 
 ## Practice
 
 This is a joint work with Abderrahim Khalifa, Yann Bouteiller and Amine Bellahsen. 
+
+### Problem 1 : building a Multilayer Perceptron (MLP) and train it on the [MNIST handwritten digit dataset](http://yann.lecun.com/exdb/mnist/)
 
 The data for the problem 3 can be found in the following url:
 
