@@ -6,6 +6,8 @@ This is the first assignement of the [IFT6135: Representation-Learning](https://
 
 ## Theory
 
+Multilayer Perceptrons and Convolutional Neural networks : [Statement and Solution]().
+
 
 ## Practice
 
