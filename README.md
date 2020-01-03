@@ -1,12 +1,15 @@
-# ift6135_assignment1
+# IFT6135: Representation Learning, first assignement.
 
-These are the jupyter notebooks for the practical part of the assignement 1. 
+## Description
 
-Team members:
-- Sanae Lotfi
-- Abderrahim Khalifa 
-- Yann Bouteiller
-- Amine Bellahsen 
+This is the first assignement of the [IFT6135: Representation-Learning](https://sites.google.com/mila.quebec/ift6135), taught by Prof. [Aaron Courville](https://mila.quebec/en/person/aaron-courville/).
+
+## Theory:
+
+
+## Practice:
+
+This is a joint work with Abderrahim Khalifa, Yann Bouteiller and Amine Bellahsen. 
 
 The data for the problem 3 can be found in the following url:
 
