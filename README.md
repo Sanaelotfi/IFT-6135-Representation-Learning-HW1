@@ -13,7 +13,11 @@ Multilayer Perceptrons and Convolutional Neural networks : [Statement and Soluti
 
 This is a joint work with Abderrahim Khalifa, Yann Bouteiller and Amine Bellahsen. 
 
-### Problem 1 : building a Multilayer Perceptron (MLP) and train it on the [MNIST handwritten digit dataset](http://yann.lecun.com/exdb/mnist/)
+### Problem 1: building a Multilayer Perceptron (MLP) and training it on the [MNIST handwritten digit dataset (http://yann.lecun.com/exdb/mnist/)
+
+### Problem 2: training a convolutional network on MNIST
+
+
 
 The data for the problem 3 can be found in the following url:
 
