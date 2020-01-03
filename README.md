@@ -4,10 +4,10 @@
 
 This is the first assignement of the [IFT6135: Representation-Learning](https://sites.google.com/mila.quebec/ift6135), taught by Prof. [Aaron Courville](https://mila.quebec/en/person/aaron-courville/).
 
-## Theory:
+## Theory
 
 
-## Practice:
+## Practice
 
 This is a joint work with Abderrahim Khalifa, Yann Bouteiller and Amine Bellahsen. 
 
