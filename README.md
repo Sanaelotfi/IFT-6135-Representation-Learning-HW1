@@ -17,8 +17,6 @@ This is a joint work with Abderrahim Khalifa, Yann Bouteiller and Amine Bellahse
 
 [Solution](https://github.com/Sanaelotfi/IFT-6135-Representation-Learning-HW1/blob/master/Problem1.ipynb).
 
-The data for this problem can be found in the follwoing [url](https://drive.google.com/file/d/1D16AUrwuN4492JDXngHBpgF8uRQeZiDo/view?usp=sharing).
-
 Best model validation accuracy:  98.41%. 
 
 
@@ -32,7 +30,7 @@ Obtained test accuracy: 99.14 %.
 
 [Solution](https://github.com/Sanaelotfi/IFT-6135-Representation-Learning-HW1/blob/master/Problem3.ipynb).
 
-The data for this problem can be found in the following [url](https://drive.google.com/file/d/1d2pOl-mmnRREJ_Wt_NugBKd7iizjt5KY/view?usp=sharing). Otherwise you can use the to_npy.py file to generate the data.npz file from raw images.
+You can use the to_npy.py file to generate the data.npz file from raw images.
 
 Best validation accuracy: 89%.
 
