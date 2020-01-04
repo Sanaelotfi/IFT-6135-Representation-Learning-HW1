@@ -13,18 +13,26 @@ Multilayer Perceptrons and Convolutional Neural networks : [Statement and Soluti
 
 This is a joint work with Abderrahim Khalifa, Yann Bouteiller and Amine Bellahsen. 
 
-### Problem 1: building a Multilayer Perceptron (MLP) and training it on the [MNIST handwritten digit dataset (http://yann.lecun.com/exdb/mnist/)
+### Problem 1: building a Multilayer Perceptron (MLP) and training it on the MNIST handwritten digit dataset
+
+[Solution](https://github.com/Sanaelotfi/IFT-6135-Representation-Learning-HW1/blob/master/Problem1.ipynb).
+
+The data for this problem can be found in the follwoing [url](https://drive.google.com/file/d/1D16AUrwuN4492JDXngHBpgF8uRQeZiDo/view?usp=sharing).
+
+Best model validation accuracy:  98.41%. 
+
 
 ### Problem 2: training a convolutional network on MNIST
 
+[Solution](https://github.com/Sanaelotfi/IFT-6135-Representation-Learning-HW1/blob/master/Problem2.ipynb).
 
+Obtained test accuracy: 99.14 %.
 
-The data for the problem 3 can be found in the following url:
+### Problem 3: Dogs vs. Cats InclassKaggle challenge for image classification.
 
-https://drive.google.com/file/d/1d2pOl-mmnRREJ_Wt_NugBKd7iizjt5KY/view?usp=sharing
+[Solution](https://github.com/Sanaelotfi/IFT-6135-Representation-Learning-HW1/blob/master/Problem3.ipynb).
 
-otherwise you can use the to_npy.py file to generate the data.npz file from raw images.
+The data for this problem can be found in the following [url](https://drive.google.com/file/d/1d2pOl-mmnRREJ_Wt_NugBKd7iizjt5KY/view?usp=sharing). Otherwise you can use the to_npy.py file to generate the data.npz file from raw images.
 
-The data for the problem one can be found in the follwoing url:
+Best validation accuracy: 89%.
 
-https://drive.google.com/file/d/1D16AUrwuN4492JDXngHBpgF8uRQeZiDo/view?usp=sharing
