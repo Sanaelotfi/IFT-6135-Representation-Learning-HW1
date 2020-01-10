@@ -1,36 +1,40 @@
-# IFT6135: Representation Learning, first assignement.
+#  Assignements for "INF8215: Methods and Algorithms for Artificial Intelligence"
 
 ## Description
 
-This is the first assignement of the [IFT6135: Representation-Learning](https://sites.google.com/mila.quebec/ift6135), taught by Prof. [Aaron Courville](https://mila.quebec/en/person/aaron-courville/).
+Here are the 3 assignements for the [INF8215: Methods and Algorithms for Artificial Intelligence](https://www.polymtl.ca/etudes/cours/intelligence-artif-methodes-et-algorithmes), taught by Prof. [DANIEL ALOISE
+](https://www.polymtl.ca/expertises/aloise-daniel). The content of this course is very similar, and inspired from the content of the [CS 188: Introduction to Artificial Intelligence](http://inst.eecs.berkeley.edu/~cs188/fa19/) at [UC Berkeley](https://www.berkeley.edu/).
 
-## Theory
+This is a joint work with Théo Moins and Amine Bellahsen. 
 
-Multilayer Perceptrons and Convolutional Neural networks : [Statement and Solution](https://github.com/Sanaelotfi/IFT-6135-Representation-Learning-HW1/blob/master/IFT6135_HW1_Theory.pdf).
+## Assignement 1 : search methods [Python]
 
+Implemented methods: search trees, A* search algorithm and Variable Neighborhood Search (VNS). 
 
-## Practice
+[Statement in English](https://github.com/Sanaelotfi/Algorithms-for-AI/blob/master/HW1/tp1_2018_EN_Statement.ipynb)
 
-This is a joint work with Abderrahim Khalifa, Yann Bouteiller and Amine Bellahsen. 
-
-### Problem 1: building a Multilayer Perceptron (MLP) and training it on the MNIST handwritten digit dataset
-
-[Solution](https://github.com/Sanaelotfi/IFT-6135-Representation-Learning-HW1/blob/master/Problem1.ipynb).
-
-Best model validation accuracy:  98.41%. 
+[Solution in French](https://github.com/Sanaelotfi/Algorithms-for-AI/blob/master/HW1/INF8215_HW1_FR.ipynb).
 
 
-### Problem 2: training a convolutional network on MNIST
+## Assignement 2: Prolog, logic programming and constraint programming [Prolog&MiniZinc]
 
-[Solution](https://github.com/Sanaelotfi/IFT-6135-Representation-Learning-HW1/blob/master/Problem2.ipynb).
+Using constraint programming to solve two combinatorial problems and logic programming to extract information.
 
-Obtained test accuracy: 99.14 %.
+[Statement in English](https://github.com/Sanaelotfi/Algorithms-for-AI/blob/master/HW2/TP2_A18_EN_Statement.pdf)
 
-### Problem 3: Dogs vs. Cats InclassKaggle challenge for image classification.
+Solution:
 
-[Solution](https://github.com/Sanaelotfi/IFT-6135-Representation-Learning-HW1/blob/master/Problem3.ipynb).
+[Exercise 1](https://github.com/Sanaelotfi/Algorithms-for-AI/blob/master/HW2/tp2_exo1.mzn)  
+[Exercise 2](https://github.com/Sanaelotfi/Algorithms-for-AI/blob/master/HW2/tp2_exo2.mzn)  
+[Exercise 3](https://github.com/Sanaelotfi/Algorithms-for-AI/blob/master/HW2/tp2_exo3.pl)  
+[Exercise 4](https://github.com/Sanaelotfi/Algorithms-for-AI/blob/master/HW2/tp2_exo4.pl)  
+[Resport in French](https://github.com/Sanaelotfi/Algorithms-for-AI/blob/master/HW2/compte_rendu_tp2_inf8215.pdf).
 
-You can use the to_npy.py file to generate the data.npz file from raw images.
+## Assignement 3: Machine Learning [Python]
 
-Best validation accuracy: 89%.
+Implementation of softmax regression, data preprocessing and InclassKaggle challenge.
+
+[Statement in English](https://github.com/Sanaelotfi/Algorithms-for-AI/blob/master/HW3/TP3_EN_Statement.ipynb)
+
+[Solution in French](https://github.com/Sanaelotfi/Algorithms-for-AI/blob/master/HW3/TP3_FR_Solution.ipynb).
 
