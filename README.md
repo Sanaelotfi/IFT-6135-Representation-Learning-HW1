@@ -6,7 +6,7 @@ This is the first assignment of the [IFT6135: Representation-Learning](https://s
 
 ## Theory
 
-Multilayer Perceptrons and Convolutional Neural networks : [Statement and Solution](https://github.com/Sanaelotfi/IFT-6135-Representation-Learning-HW1/blob/master/IFT6135_HW1_Theory.pdf).
+Multilayer Perceptrons and Convolutional Neural networks: [Statement and Solution](https://github.com/Sanaelotfi/IFT-6135-Representation-Learning-HW1/blob/master/IFT6135_HW1_Theory.pdf).
 
 
 ## Practice
